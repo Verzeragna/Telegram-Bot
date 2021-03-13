@@ -1,0 +1,1 @@
+web: sh target/bin/PineBot-1.0 -server.port=$PORT
